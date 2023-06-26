@@ -1,0 +1,3 @@
+tasks:
+  - name: start
+    init: cp ./.vimrc ~/.vimrc
